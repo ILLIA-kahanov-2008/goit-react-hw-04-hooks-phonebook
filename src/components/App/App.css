@@ -1,0 +1,32 @@
+.App {
+  /* text-align: center; */
+  width: 80%;
+  max-width: 500px;
+  margin: 10px auto 0;
+  padding: 15px;
+  border: 2px solid black;
+}
+
+.button {
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: burlywood;
+}
+
+.button:hover,
+.button:focus {
+  background-color: darkturquoise;
+}
+
+.input {
+  width: 70%;
+  border-radius: 5px;
+  border: 2px solid burlywood;
+  line-height: 2;
+}
+
+.Contacts {
+  border: 1px solid #a3a1a1;
+  box-shadow: lightgrey 1px 4px;
+  margin-top: 10px;
+}

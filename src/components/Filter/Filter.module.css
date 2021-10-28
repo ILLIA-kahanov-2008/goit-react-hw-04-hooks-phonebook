@@ -1,0 +1,10 @@
+.filter {
+  display: block;
+  text-align: center;
+  color: dodgerblue;
+  padding-top: 10px;
+}
+
+.filter p {
+  margin-bottom: 5px;
+}
